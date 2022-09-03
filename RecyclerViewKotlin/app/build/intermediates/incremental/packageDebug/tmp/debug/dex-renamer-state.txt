@@ -1,0 +1,4 @@
+#Thu Oct 01 22:04:30 IST 2020
+base.0=/Users/sumit.jha/AndroidStudioProjects/RecyclerViewKotlin/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
